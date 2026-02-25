@@ -46,7 +46,7 @@ async function getLyric(musicItem) {
 module.exports = {
     platform: "Ufanv歌词网",
     version: "0.1.0",
-    srcUrl: "https://www.ufanv.cn/lyric",
+    srcUrl: "https://raw.githubusercontent.com/raiseyang/MusicFreePlugins/refs/heads/master/plugins/ufanv-lyric.js",
     cacheControl: "no-store",
     supportedSearchType: ["lyric"],
     search,
